@@ -1,0 +1,35 @@
+body p.msg_tip { font-size: 12px !important; font-weight: 700; margin-top: 12px; width: 397px; line-height: 16px; color:#333}
+p.msg_tip span { font-size: 13px; text-transform: capitalize; font-weight: 400; padding-right: 3px; }
+p.msg_tip::before { content: ""; display: block; clear: both; }
+span.wabaapi_userId {  margin-left: 10px; }
+.color-blue{color:#3c8dbc !important}
+.color-333{color:#333 !important}
+p.mtip{color:#333 !important;font-size: 12px !important; font-weight:700}
+td{font-size:11px !important}
+.txtMsg{width:250px!important;max-width: 250px;
+word-wrap: break-word;
+white-space: pre-wrap;}
+.exportcsv{max-width: 100%;
+margin-top: 20px;
+padding-top: 10px;float:right}
+.text-red{color:red;font-weight: 700}
+.unifysgcsms-inline-label {
+    display: inline-block;
+    margin-right: 10px;margin-left: 10px;
+    vertical-align: middle;
+}
+
+.unifysgcsms-inline-input {
+    display: inline-block;
+    vertical-align: middle;
+}.unifysgcsms-searchLabel{font-weight:bold;font-size:16px}
+.form-input{margin-top:15px;display: block;}
+.unify_sgc_sms_top_image_logo {
+  width: 360px;
+  background: url(../../assets/images/SGC-Logo-320x80.png) left center no-repeat;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 45px;
+  margin: 20px 0 20px 20px;
+}
